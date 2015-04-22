@@ -24,6 +24,8 @@
     tableData = [NSArray arrayWithObjects:@"vang",@"hong",@"tim",@"xanh",@"xanh duong", nil];
     mobilePrice = [NSArray arrayWithObjects:@"$1",@"$2",@"$3",@"$4",@"$5", nil];
     mobileimage = [NSArray arrayWithObjects:@"vang",@"hong",@"tim",@"xanh",@"xanhduong", nil];
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
